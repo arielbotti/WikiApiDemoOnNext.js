@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Next-05",
+  title: "Wiki API | NEXT.js App",
   description: "",
 };
 
